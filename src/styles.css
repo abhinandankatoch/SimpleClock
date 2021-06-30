@@ -1,0 +1,24 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    background-image: url(../img/clock-bg.jpg);
+    background-size: 1600px;
+}
+
+.jumbotron{
+    border: 5px solid rgb(255, 216, 216);
+    margin: 130px;
+    background: rgba(255, 255, 255,0.95);
+}
+
+.jumbotron h1{
+    text-align: center;
+}
+
+.jumbotron h6{
+    text-align: center;
+}
+
+.jumbotron p{
+    text-align: center;
+}
